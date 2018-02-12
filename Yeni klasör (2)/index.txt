@@ -1,0 +1,30 @@
+<html>
+<title>Lab2 Website</title>
+<head> This is the website of Seyma</head>
+<body>
+I am a student at SIT/KMUTT. I am a girl. We are in CS program.We love to<b>
+write program.</b> We also love <i> Aj. Chonlameth.</i>
+<p>
+<ul>
+<li> Gulni</li>
+<li> Beyza</li>
+<li> Seyma</li>
+<li> Mine</li>
+</ul>
+
+<table border=>
+<th>Courses</th><th>Year</th><th>Semester</th>
+
+ <tr>
+   <td>Data Structure </td>
+   <td>2017</td>
+   <td>Spring</td>
+ </tr> <tr>
+   <td>Algorithms </td>
+   <td>2018</td>
+   <td>Fall</td>
+ </tr>
+<img src="billgates.jpg"width="320" height="430"/>
+
+</body>
+</html>
